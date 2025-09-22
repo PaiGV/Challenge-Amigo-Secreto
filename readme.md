@@ -1,5 +1,5 @@
 
-¡Bienvenido al repositorio de "Amigo Secreto"! 
+<h1>¡Bienvenido al repositorio de "Amigo Secreto"!</h1> 
 
 ## 🌟 Sobre el Proyecto
 
@@ -18,8 +18,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios:
 
 1.  **Clona este repositorio** en tu máquina local.
     ```bash
-    git clone [https://github.com/PaiGV/Challenge-Amigo-Secreto.git]
-    (https://github.com/PaiGV/Challenge-Amigo-Secreto.git)
+    git clone [https://github.com/PaiGV/Challenge-Amigo-Secreto.git](https://github.com/PaiGV/Challenge-Amigo-Secreto.git)
     ```
 2.  **Abre el archivo `index.html`** en tu navegador web.
 3.  **Añade los nombres** de los participantes en el campo de texto y haz clic en "Añadir".
